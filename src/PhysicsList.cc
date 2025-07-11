@@ -5,6 +5,9 @@
 #include "BlackBody.hh"
 #include "G4Gamma.hh"
 
+#include "G4SystemOfUnits.hh"      
+#include "G4ProcessManager.hh"     
+
 PhysicsList::PhysicsList()
 {
     defaultCutValue = 0.1*mm;
