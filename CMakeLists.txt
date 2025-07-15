@@ -15,6 +15,6 @@ add_executable(GammaXRay
 
 target_include_directories(GammaXRay PUBLIC src)          # include
 target_link_libraries(GammaXRay
-    PUBLIC ${Geant4_LIBRARIES} PhotonProcess::PhotonProcess)
+    PUBLIC ${Geant4_LIBRARIES} PhotonProcess)
 
 install(TARGETS GammaXRay DESTINATION bin)

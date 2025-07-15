@@ -1,0 +1,7 @@
+/rds/general/user/mb1825/home/GammaXRay/build/CMakeFiles/GammaXRay.dir
+/rds/general/user/mb1825/home/GammaXRay/build/CMakeFiles/edit_cache.dir
+/rds/general/user/mb1825/home/GammaXRay/build/CMakeFiles/rebuild_cache.dir
+/rds/general/user/mb1825/home/GammaXRay/build/CMakeFiles/list_install_components.dir
+/rds/general/user/mb1825/home/GammaXRay/build/CMakeFiles/install.dir
+/rds/general/user/mb1825/home/GammaXRay/build/CMakeFiles/install/local.dir
+/rds/general/user/mb1825/home/GammaXRay/build/CMakeFiles/install/strip.dir
